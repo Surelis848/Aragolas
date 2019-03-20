@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Aragorn",
+        "description": "Aragorn II, son of Arathorn is a fictional character from J. R. R. Tolkien's legendarium. He is one of the main protagonists of The Lord of the Rings. Aragorn was a Ranger of the North, first introduced with the name Strider at Bree, as the Hobbits continued to call him throughout The Lord of the Rings. He was eventually revealed to be the heir of Isildur and rightful claimant to the thrones of Arnor and Gondor. He was also a confidant of Gandalf and an integral part of the quest to destroy the One Ring and defeat the Dark Lord Sauron.",
+        "image_source": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/04/aragorn.jpg",
+        "url": "aragorn"
+    },
+    {
+        "name": "Legolas",
+        "description": "Legolas was a Sindarin elf who was part of the Fellowship of the Ring in the Third Age. As he was the son of the Elvenking Thranduil of Mirkwood, Legolas was prince of the Woodland Realm (Mirkwood), a messenger, and a master bowman. With his keen eyesight, sensitive hearing, and excellent bowmanship, Legolas was a valuable resource to the other members of the Fellowship. He was well-known for becoming friends with the dwarf Gimli, despite their long-held differences.",
+        "image_source": "https://static1.srcdn.com/wordpress/wp-content/uploads/2018/11/Legolas-things-done-between-The-Hobbit-and-Lord-of-the-Rings.jpg",
+        "url": "legolas"
+    }
+]
